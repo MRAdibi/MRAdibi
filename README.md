@@ -13,7 +13,7 @@ I'm Mohammad Reza and I'm a lover of programming and cool work, I'm currently st
 - 👨🏻‍🎓 I’m currently study on **IAU** of Bushehr
 - 👀 born on 29 August 2004
 - 🌍 from Iran, Bushehr
-- :computer: Most used line of code `print(Hello World)` 😂😂
+- :computer: Most used line of code `print(Hello World)` just kidding 😂😂
 - 📫 How to reach me: m.r.adibi125@gmail.com.
 - 😄 I always like to share my knowledge
 - ⚡ Fun fact: Actually i also love video games and GYM workout i think a healthy brain is in a helthy body
