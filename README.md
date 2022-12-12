@@ -1,6 +1,6 @@
 ## Hi I'm Mohammad reza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Mohammad Reza and I'm a lover of programming and cool work, I'm currently study on IAU of Bushehr, I'm so interested in learning new technology, actually i'm fast learner 😉😉
+I'm a lover of programming and cool work, I'm currently study at IAU of Bushehr, I'm so interested in learning new technology, actually i'm fast learner 😉😉
 
 :mailbox: Reach me out!
 
