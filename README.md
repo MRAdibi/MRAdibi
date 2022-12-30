@@ -10,7 +10,7 @@ I'm a lover of programming and cool work, I'm currently study at IAU of Bushehr,
 
 ## A few things about me
 
-- 👨🏻‍🎓 I’m currently study on **IAU** of Bushehr
+- 👨🏻‍🎓 I’m currently study at **IAU** of Bushehr
 - 👀 born on 29 August 2004
 - 🌍 from Iran, Bushehr
 - :computer: Most used line of code `print(Hello World)` just kidding 😂😂
